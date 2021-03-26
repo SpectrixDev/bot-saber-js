@@ -2,6 +2,9 @@
 #### By Spectrix and SamHep0803
 [Add to your server!](https://discord.com/oauth2/authorize?client_id=753289892007510017&scope=bot&permissions=74837056) | [Support Server](https://discord.gg/Ny6zTNH)
 
+# This is the old version of bot saber that was written in javascript. Thew new, far superior version is over at https://github.com/SpectrixDev/bot-saber and is written in Python. This exists to preserve the code.
+
+
 Bot Saber is a discord bot handy for anyone wanting to spice up their discord server with Beat Saber features and commands. It offers a great way to integrate the game right into your server.
 
 The bot boasts a list of various commands and features. We plan to expand these commands and consistently add more. For example, there's a BeatSaver integration and a ScoreSaber integration, allowing for beatmap searches and profile viewing from within Discord.
